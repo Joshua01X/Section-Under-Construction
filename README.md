@@ -1,15 +1,7 @@
-<div align="center">
-  <h1>⚠️ <b>NOTICE!</b> ⚠️</h1>
-</div>
+# Programmatic Vulnerability Remediations Through PowerShell and BASH
 
-<h1 align="center">
-    🚧⚠️ 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=1750&lines=Workers+On+Break!;+Please+Be+Patient!" />
-    🚧⚠️
-</h1>
+## Remediations Table for DISA STIGs
 
-<h1 align="center">
-    <img src="https://i.gifer.com/7VVE.gif" alt="Under Construction" width="500" />
-</h1>
-
-
+| STIG ID        | Description                   | Language   | Link                                                     |
+|------------|-------------------------------|------------|----------------------------------------------------------|
+| CVE-2023-0001 | The password history must be configured to 24 passwords remembered | PowerShell | [Remediation 1](https://github.com/Joshua01X) |
